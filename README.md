@@ -6,6 +6,7 @@ Food unites us all!
 
 PS: I also code stuff as well.
 
+Note that there probably is other coding activity that isn't shown below.
 
 ![Hackatime Info](https://github-readme-stats.hackclub.dev/api/wakatime?username=13595&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent)
 
