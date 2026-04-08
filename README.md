@@ -8,7 +8,8 @@ PS: I also code stuff as well.
 
 Note that there probably is other coding activity that isn't shown below.
 
-![Hackatime Info](https://github-readme-stats.hackclub.dev/api/wakatime?username=13595&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent)
+(There used to be a hackatime code time tracking thingy here but due to Hack Club/The Hack Foundation's poor security practices it is now disabled)
+<!--- ![Hackatime Info](https://github-readme-stats.hackclub.dev/api/wakatime?.username=13595&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent) --->
 
 <!---
 Another-Person1/Another-Person1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
